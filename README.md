@@ -27,6 +27,8 @@ Data Visualization (Power BI) – creating interactive dashboards with KPIs and 
 Trend Analysis – monitoring monthly and quarterly patterns for forecasting.
 
 Stakeholder Reporting – translating data into actionable business insights.
+<img width="1076" height="734" alt="image" src="https://github.com/user-attachments/assets/cb7153ec-5a4c-489e-aa0a-7eaa8a27b448" />
+
 
 🔹 Analysis
 
